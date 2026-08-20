@@ -12,6 +12,7 @@ You should [read this blog post](https://www.rostrum.blog/2019/06/11/r-repo-temp
 
 ## File tree
 See individual `README.md` files in the folders for specific information but in general:
+* Docker images go on `Docker/`
 * Data go on `data/`
 * External data go on `ext/`
 * Human readable reports go on `docs/`
@@ -21,6 +22,7 @@ See individual `README.md` files in the folders for specific information but in 
 
 ```
 elgus-R-template/
+├── Docker/
 ├── data/
 │   ├── README.md
 ├── Docker/
