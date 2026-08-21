@@ -14,6 +14,7 @@ Feel free to fork or copy this and tweak it for your workflow.
 
 ## File tree
 See individual `README.md` files in the folders for specific information but in general:
+* Docker images go on `Docker/`
 * Data go on `data/`
 * External data go on `ext/`
 * Human readable reports go on `docs/`
